@@ -3,7 +3,7 @@
 Plugin Name: Auto Featured Image Generator
 Description: Genera automáticamente imágenes destacadas a partir del título de las publicaciones.
 Version: 1.0
-Author: Oscar Mangut Dev
+Author: Oscar Mangut Durán
 */
 
 if (!defined('ABSPATH')) {
